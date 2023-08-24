@@ -1,6 +1,6 @@
 # SQL Music Analysis
 
-A project that I work on in PostgreSQL 
+SQL project to analyze online music store data
 
 📚 Create
 
